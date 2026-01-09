@@ -1,0 +1,15 @@
+# C++ 编译产生的可执行文件
+*.exe
+*.out
+*.app
+
+# 编译过程中的中间文件
+*.o
+*.obj
+
+# 编辑器生成的配置文件夹 (如果你用 VSCode)
+.vscode/
+
+# 操作系统生成的垃圾 (Mac/Windows都有)
+.DS_Store
+Thumbs.db
